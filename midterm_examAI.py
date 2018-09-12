@@ -1,3 +1,7 @@
+#NDC2018 - necodong AI contest : Five!
+#AI name : 여러분의 AI와 규칙을 분석하여 시험기간에 뭐하는 거지
+#http://necodong.com
+
 cas =1
 wchk='s'
 
